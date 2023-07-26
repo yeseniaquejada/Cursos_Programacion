@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LRGblD6ok/FBMa9eQgPBYoNb/sgRLcyBaZI1aTWS9Px/FbfmQbo+bYnUqyUVX9DVVYWrxC1DbjsDlWov58hGSQ==",
+  "success": true,
+  "projectFilePath": "F:\\Circulo\\Circulo\\Circulo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\asistente6.sion.UNAC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

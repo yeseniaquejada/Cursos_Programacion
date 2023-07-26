@@ -1,0 +1,16 @@
+D:\Documents\YESENIA QUEJADA ROJAS\Circulo\Circulo\bin\Debug\net5.0\Circulo.exe
+D:\Documents\YESENIA QUEJADA ROJAS\Circulo\Circulo\bin\Debug\net5.0\Circulo.deps.json
+D:\Documents\YESENIA QUEJADA ROJAS\Circulo\Circulo\bin\Debug\net5.0\Circulo.runtimeconfig.json
+D:\Documents\YESENIA QUEJADA ROJAS\Circulo\Circulo\bin\Debug\net5.0\Circulo.runtimeconfig.dev.json
+D:\Documents\YESENIA QUEJADA ROJAS\Circulo\Circulo\bin\Debug\net5.0\Circulo.dll
+D:\Documents\YESENIA QUEJADA ROJAS\Circulo\Circulo\bin\Debug\net5.0\ref\Circulo.dll
+D:\Documents\YESENIA QUEJADA ROJAS\Circulo\Circulo\bin\Debug\net5.0\Circulo.pdb
+D:\Documents\YESENIA QUEJADA ROJAS\Circulo\Circulo\obj\Debug\net5.0\Circulo.csprojAssemblyReference.cache
+D:\Documents\YESENIA QUEJADA ROJAS\Circulo\Circulo\obj\Debug\net5.0\Circulo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\YESENIA QUEJADA ROJAS\Circulo\Circulo\obj\Debug\net5.0\Circulo.AssemblyInfoInputs.cache
+D:\Documents\YESENIA QUEJADA ROJAS\Circulo\Circulo\obj\Debug\net5.0\Circulo.AssemblyInfo.cs
+D:\Documents\YESENIA QUEJADA ROJAS\Circulo\Circulo\obj\Debug\net5.0\Circulo.csproj.CoreCompileInputs.cache
+D:\Documents\YESENIA QUEJADA ROJAS\Circulo\Circulo\obj\Debug\net5.0\Circulo.dll
+D:\Documents\YESENIA QUEJADA ROJAS\Circulo\Circulo\obj\Debug\net5.0\ref\Circulo.dll
+D:\Documents\YESENIA QUEJADA ROJAS\Circulo\Circulo\obj\Debug\net5.0\Circulo.pdb
+D:\Documents\YESENIA QUEJADA ROJAS\Circulo\Circulo\obj\Debug\net5.0\Circulo.genruntimeconfig.cache
