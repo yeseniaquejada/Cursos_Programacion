@@ -1,0 +1,16 @@
+D:\Documents\YESENIA QUEJADA ROJAS\OperadoresLogicos\OperadoresLogicos\obj\Debug\net5.0\OperadoresLogicos.csprojAssemblyReference.cache
+D:\Documents\YESENIA QUEJADA ROJAS\OperadoresLogicos\OperadoresLogicos\obj\Debug\net5.0\OperadoresLogicos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\YESENIA QUEJADA ROJAS\OperadoresLogicos\OperadoresLogicos\obj\Debug\net5.0\OperadoresLogicos.AssemblyInfoInputs.cache
+D:\Documents\YESENIA QUEJADA ROJAS\OperadoresLogicos\OperadoresLogicos\obj\Debug\net5.0\OperadoresLogicos.AssemblyInfo.cs
+D:\Documents\YESENIA QUEJADA ROJAS\OperadoresLogicos\OperadoresLogicos\obj\Debug\net5.0\OperadoresLogicos.csproj.CoreCompileInputs.cache
+D:\Documents\YESENIA QUEJADA ROJAS\OperadoresLogicos\OperadoresLogicos\bin\Debug\net5.0\OperadoresLogicos.exe
+D:\Documents\YESENIA QUEJADA ROJAS\OperadoresLogicos\OperadoresLogicos\bin\Debug\net5.0\OperadoresLogicos.deps.json
+D:\Documents\YESENIA QUEJADA ROJAS\OperadoresLogicos\OperadoresLogicos\bin\Debug\net5.0\OperadoresLogicos.runtimeconfig.json
+D:\Documents\YESENIA QUEJADA ROJAS\OperadoresLogicos\OperadoresLogicos\bin\Debug\net5.0\OperadoresLogicos.runtimeconfig.dev.json
+D:\Documents\YESENIA QUEJADA ROJAS\OperadoresLogicos\OperadoresLogicos\bin\Debug\net5.0\OperadoresLogicos.dll
+D:\Documents\YESENIA QUEJADA ROJAS\OperadoresLogicos\OperadoresLogicos\bin\Debug\net5.0\ref\OperadoresLogicos.dll
+D:\Documents\YESENIA QUEJADA ROJAS\OperadoresLogicos\OperadoresLogicos\bin\Debug\net5.0\OperadoresLogicos.pdb
+D:\Documents\YESENIA QUEJADA ROJAS\OperadoresLogicos\OperadoresLogicos\obj\Debug\net5.0\OperadoresLogicos.dll
+D:\Documents\YESENIA QUEJADA ROJAS\OperadoresLogicos\OperadoresLogicos\obj\Debug\net5.0\ref\OperadoresLogicos.dll
+D:\Documents\YESENIA QUEJADA ROJAS\OperadoresLogicos\OperadoresLogicos\obj\Debug\net5.0\OperadoresLogicos.pdb
+D:\Documents\YESENIA QUEJADA ROJAS\OperadoresLogicos\OperadoresLogicos\obj\Debug\net5.0\OperadoresLogicos.genruntimeconfig.cache
