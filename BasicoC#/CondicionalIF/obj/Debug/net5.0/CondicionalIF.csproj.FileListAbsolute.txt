@@ -1,0 +1,16 @@
+D:\Documents\YESENIA QUEJADA ROJAS\CondicionalIF\CondicionalIF\bin\Debug\net5.0\CondicionalIF.exe
+D:\Documents\YESENIA QUEJADA ROJAS\CondicionalIF\CondicionalIF\bin\Debug\net5.0\CondicionalIF.deps.json
+D:\Documents\YESENIA QUEJADA ROJAS\CondicionalIF\CondicionalIF\bin\Debug\net5.0\CondicionalIF.runtimeconfig.json
+D:\Documents\YESENIA QUEJADA ROJAS\CondicionalIF\CondicionalIF\bin\Debug\net5.0\CondicionalIF.runtimeconfig.dev.json
+D:\Documents\YESENIA QUEJADA ROJAS\CondicionalIF\CondicionalIF\bin\Debug\net5.0\CondicionalIF.dll
+D:\Documents\YESENIA QUEJADA ROJAS\CondicionalIF\CondicionalIF\bin\Debug\net5.0\ref\CondicionalIF.dll
+D:\Documents\YESENIA QUEJADA ROJAS\CondicionalIF\CondicionalIF\bin\Debug\net5.0\CondicionalIF.pdb
+D:\Documents\YESENIA QUEJADA ROJAS\CondicionalIF\CondicionalIF\obj\Debug\net5.0\CondicionalIF.csprojAssemblyReference.cache
+D:\Documents\YESENIA QUEJADA ROJAS\CondicionalIF\CondicionalIF\obj\Debug\net5.0\CondicionalIF.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\YESENIA QUEJADA ROJAS\CondicionalIF\CondicionalIF\obj\Debug\net5.0\CondicionalIF.AssemblyInfoInputs.cache
+D:\Documents\YESENIA QUEJADA ROJAS\CondicionalIF\CondicionalIF\obj\Debug\net5.0\CondicionalIF.AssemblyInfo.cs
+D:\Documents\YESENIA QUEJADA ROJAS\CondicionalIF\CondicionalIF\obj\Debug\net5.0\CondicionalIF.csproj.CoreCompileInputs.cache
+D:\Documents\YESENIA QUEJADA ROJAS\CondicionalIF\CondicionalIF\obj\Debug\net5.0\CondicionalIF.dll
+D:\Documents\YESENIA QUEJADA ROJAS\CondicionalIF\CondicionalIF\obj\Debug\net5.0\ref\CondicionalIF.dll
+D:\Documents\YESENIA QUEJADA ROJAS\CondicionalIF\CondicionalIF\obj\Debug\net5.0\CondicionalIF.pdb
+D:\Documents\YESENIA QUEJADA ROJAS\CondicionalIF\CondicionalIF\obj\Debug\net5.0\CondicionalIF.genruntimeconfig.cache
