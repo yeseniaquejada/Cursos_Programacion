@@ -1,0 +1,16 @@
+D:\Documents\YESENIA QUEJADA ROJAS\Rectangulo\Rectangulo\bin\Debug\net5.0\Rectangulo.exe
+D:\Documents\YESENIA QUEJADA ROJAS\Rectangulo\Rectangulo\bin\Debug\net5.0\Rectangulo.deps.json
+D:\Documents\YESENIA QUEJADA ROJAS\Rectangulo\Rectangulo\bin\Debug\net5.0\Rectangulo.runtimeconfig.json
+D:\Documents\YESENIA QUEJADA ROJAS\Rectangulo\Rectangulo\bin\Debug\net5.0\Rectangulo.runtimeconfig.dev.json
+D:\Documents\YESENIA QUEJADA ROJAS\Rectangulo\Rectangulo\bin\Debug\net5.0\Rectangulo.dll
+D:\Documents\YESENIA QUEJADA ROJAS\Rectangulo\Rectangulo\bin\Debug\net5.0\ref\Rectangulo.dll
+D:\Documents\YESENIA QUEJADA ROJAS\Rectangulo\Rectangulo\bin\Debug\net5.0\Rectangulo.pdb
+D:\Documents\YESENIA QUEJADA ROJAS\Rectangulo\Rectangulo\obj\Debug\net5.0\Rectangulo.csprojAssemblyReference.cache
+D:\Documents\YESENIA QUEJADA ROJAS\Rectangulo\Rectangulo\obj\Debug\net5.0\Rectangulo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\YESENIA QUEJADA ROJAS\Rectangulo\Rectangulo\obj\Debug\net5.0\Rectangulo.AssemblyInfoInputs.cache
+D:\Documents\YESENIA QUEJADA ROJAS\Rectangulo\Rectangulo\obj\Debug\net5.0\Rectangulo.AssemblyInfo.cs
+D:\Documents\YESENIA QUEJADA ROJAS\Rectangulo\Rectangulo\obj\Debug\net5.0\Rectangulo.csproj.CoreCompileInputs.cache
+D:\Documents\YESENIA QUEJADA ROJAS\Rectangulo\Rectangulo\obj\Debug\net5.0\Rectangulo.dll
+D:\Documents\YESENIA QUEJADA ROJAS\Rectangulo\Rectangulo\obj\Debug\net5.0\ref\Rectangulo.dll
+D:\Documents\YESENIA QUEJADA ROJAS\Rectangulo\Rectangulo\obj\Debug\net5.0\Rectangulo.pdb
+D:\Documents\YESENIA QUEJADA ROJAS\Rectangulo\Rectangulo\obj\Debug\net5.0\Rectangulo.genruntimeconfig.cache
